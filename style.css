@@ -16,6 +16,10 @@
   .product-list h2 {
     font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
   }
+
+header {
+    background-image: url(../lesson-task-htmlcss-module1-lesson3/images/home-header.jpg);
+}
 header,
 footer {
   background-color: #202020;
