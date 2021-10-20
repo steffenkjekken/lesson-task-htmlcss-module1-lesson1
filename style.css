@@ -51,7 +51,7 @@ footer {
 }
 
 .welcome {
-    background-image: url("../lesson-task-htmlcss-module1-lesson3/images/home-header.jpg");
+    background-image: url("../images/home-header.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: right;
@@ -59,10 +59,10 @@ footer {
     min-height: 70vh;
 }
 
-.selling-points__images {
+.selling-points_images {
     border-radius: 100px;
 }
 
-.review__images {
+.review_images {
     border-radius: 50px;
 }
