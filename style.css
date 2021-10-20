@@ -17,9 +17,7 @@
     font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
   }
 
-.welcome {
-    background-image: url(../lesson-task-htmlcss-module1-lesson3/images/home-header.jpg);
-}
+
 header,
 footer {
   background-color: #202020;
@@ -50,4 +48,21 @@ header a {
 
 footer {
   text-align: center;
+}
+
+.welcome {
+    background-image: url("../lesson-task-htmlcss-module1-lesson3/images/home-header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+    min-height: 70vh;
+}
+
+.selling-points__images {
+    border-radius: 100px;
+}
+
+.review__images {
+    border-radius: 50px;
 }
