@@ -17,7 +17,7 @@
     font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
   }
 
-header {
+.welcome {
     background-image: url(../lesson-task-htmlcss-module1-lesson3/images/home-header.jpg);
 }
 header,
